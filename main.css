@@ -6,8 +6,9 @@
  
 body{
     font: Arial, helvetica, sans-serif;
-    background-image: url("pexels-edwin-josé-vega-ramos-2356099.jpg");
-    background-size: contain;
+    background-image: url(pexels-josh-hild-2422588.jpg);
+    background-repeat: no-repeat;
+    background-size:100% ;
 }
 #container{
     width: 1050px;
@@ -99,7 +100,7 @@ ul{
     padding: 50px;
     text-align: center;
     background-color: #474e5d .8;
-    color: rgb(31, 58, 77);
+    color: #d5dbe4;
     
       
   }
